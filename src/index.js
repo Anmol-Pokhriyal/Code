@@ -8,10 +8,10 @@ ReactDOM.render(
       <li>Fruites</li>
     </ul>
     <ul>
-      <li>Fruites</li>
+      <li>Fish</li>
     </ul>
     <ul>
-      <li>Fruites</li>
+      <li>Donuts</li>
     </ul>
   </div>,
   document.getElementById("root")
